@@ -1,9 +1,7 @@
 # Lync-presence-bridge
-Set blink(1) and Arduino light based on Skype for Business or Lync presence state. See it in action [in this YouTube video](https://www.youtube.com/watch?v=uuKfg7Y2FPA).
+Set blink(1) and Arduino light based on Skype for Business or Lync presence state.
 
-Build your own [Lync presence (busy) light](https://uctrl.io/projects/tagged/lync).
-
-![Lync presence (busy) light](https://static.uctrl.net/imgs/x457qe.jpeg)
+New fork - attempt to add incoming call detection - not started fiddling yet. 
 
 ## Requirements
 * Lync 2013 / Skype for Business 2016
@@ -13,9 +11,7 @@ Build your own [Lync presence (busy) light](https://uctrl.io/projects/tagged/lyn
 * Arduino LEDs: https://github.com/uCtrlHQ/Arduino-Lync-Presence-Light
 * Lync 2013 SDK: https://www.microsoft.com/en-us/download/details.aspx?id=36824
 
-## Author
-[Thomas Jensen](https://uctrl.io/@hebron)
-
 ## Credits / Attribution
 * Based on the works of [renenulsch](https://github.com/renenulsch); [Lync-Blink-Bridge](https://github.com/renenulsch/Lync-Blink-Bridge)
+* And the work of [Thomas Jensen](https://uctrl.io/@hebron)
 * Traffic lights icon by [Aha-Soft](http://www.aha-soft.com) (CC BY-NC-SA 3.0)
